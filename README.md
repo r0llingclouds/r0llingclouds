@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r0llingclouds
 - 👀 I’m interested in AI and development
 - 🌱 I’m currently learning AI, Unity and Blender
-- 💞️ I’m looking to collaborate on game development and/or AI projects
+- 💞️ I’m looking to collaborate on game development and AI projects
 - 📫 How to reach me @ r0llingclouds@icloud.com
 
 <!---
